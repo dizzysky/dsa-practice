@@ -14,3 +14,7 @@ console.log('iteration ${i+1};', array)
 return array 
 }
 console.log(bubbleSor(array)); // [1,2,3,4,6]
+
+
+function quicksort() {
+}
